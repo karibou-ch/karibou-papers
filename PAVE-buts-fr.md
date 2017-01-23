@@ -3,8 +3,8 @@
 > Le système alimentaire industriel, qui nourrit moins de 20% de la
 population, surchauffe la planète. Dans son rapport à l’ONU sur
 le droit à l’alimentation (février 2014), Olivier de Schutter a
-appelé à une « réforme des systèmes alimentaires mondiaux et à
-leur démocratisation ». Ce virage vaut pour toute la planète
+appelé à une « [réforme des systèmes alimentaires mondiaux et à
+leur démocratisation](http://www.srfood.org/fr/la-democratie-et-la-diversite-peuvent-remettre-sur-pied-les-systemes-alimentaires-defaillants) ». Ce virage vaut pour toute la planète
 comme au niveau local. Il est simple, il s’agit, en gardant des liens
 sociaux de qualité, de renforcer l’agriculture paysanne/familiale et
 de promouvoir la souveraineté alimentaire. A Genève, les tenants
