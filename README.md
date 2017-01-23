@@ -13,7 +13,8 @@ the goal of this project is to share and make easy the correction and translatio
 
 1. You have to create a [github account](https://github.com/join)
 2. Ask us to add your username as a new contributor
-3. 
+3. Click on the `file-name.md` to edit, and the button `edit` on the top-right 
+4. When you finish your work, just click bellow on the green button `Commit changes`
 
 ## What we need
 1. Each document available on this repository should be translated
