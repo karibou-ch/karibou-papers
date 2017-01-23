@@ -6,11 +6,11 @@ Sur Karibou, nous vous proposons autant des professionnels réputés et déjà b
 * Quelle grand marque peut offrir une farine issue des champs cultivés sans traitements à côté de chez vous, moulue sur meule de pierre afin d'en préserver toutes les qualités du produit ?
 
 ## La technologie au service du commerce local 
-![titre image](//ucarecdn.com/932a3e2d-9237-4ef5-b720-18e8d3f5a844/)
+![titre image](https://ucarecdn.com/932a3e2d-9237-4ef5-b720-18e8d3f5a844/p01.jpg)
 Jusqu’à présent la technologie utilisée dans la chaîne alimentaire a été principalement orientée vers l’augmentation de la rentabilité par l’usage de plus de machines et plus de chimie. Aujourd’hui, la principale révolution technologique s'axe autour de l’organisation de l’information et peut mener au remplacement d’un modèle vertical (top-down) a un modèle latérale (bottom-up). Nous pensons que la chaîne alimentaire n’est plus nécessairement tributaire d’une structure verticale pour organiser, valoriser et distribuer son travail. Le petit commerce local peut se réinventer tout en conservant son autonomie, mutualiser une logistique en flux tendu et offrir au consommateur des outils transparents pour (re)créer les liens entre production et alimentation. Ce dont il s’agit ici, c’est une forme de démocratie directe dans l’alimentation. 
 
 ## Une plateforme peer2peer
 Notre technologie réinvente la relation entre vous et les acteurs de l’alimentation. Karibou vous permet d’acheter directement auprès de vos producteurs, commerçants et artisans préférés. Ce sont eux qui fixent les prix de leurs produits, ainsi vous rétribuez équitablement leur travail. De plus, les prix à la vente ne sont pas majorés, vous payez le même montant que dans leurs boutiques ou sur leurs stands du marché.
 
 ## Aidez-nous à améliorer la plateforme et le service!
-![titre image](//ucarecdn.com/208d52ca-6df6-4ae2-a04a-68c4474652e7/)Chaque boutique ainsi que toute l’équipe karibou.ch est disponible avec un service client au plus proche de vous. Contactez-nous, faites- nous savoir ce que vous souhaitez  -nouveaux produits, nouvelles boutiques, livraison sur le canton etc.,  ou ce qu’il faut améliorer! 
+![titre image](https://ucarecdn.com/208d52ca-6df6-4ae2-a04a-68c4474652e7/)Chaque boutique ainsi que toute l’équipe karibou.ch est disponible avec un service client au plus proche de vous. Contactez-nous, faites- nous savoir ce que vous souhaitez  -nouveaux produits, nouvelles boutiques, livraison sur le canton etc.,  ou ce qu’il faut améliorer! 
