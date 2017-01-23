@@ -33,7 +33,7 @@ part, d’une volonté de démocratisation des circuits alimentaires et
 commerciaux d’autre part. Elle est définie par les dix caractéristiques
 suivantes :
 
-- [L’indépendance vis-à-vis de l’agro-industrie et de la grande distribution][1], *
+- [L’indépendance vis-à-vis de l’agro-industrie et de la grande distribution][1], 
 - Le libre accès aux semences,
 - L’exclusion des OGM,
 - L’attachement à la terre nourricière : pas de cultures hors-sol ni d’intrants pétro-chimiques),
