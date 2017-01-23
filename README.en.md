@@ -1,7 +1,7 @@
 # karibou-papers
 the goal of this project is to share and make easy the correction and translation of our main papers
 
-[<img src="http://karibou.ch/img/k-brand.png" alt="karibouCore Logo" height="100%" />](http://ngcordova.com/)
+[<img src="http://karibou.ch/img/k-brand.png" alt="karibouCore Logo" height="100%" />](http://karibou.ch/)
 
 
 | RESOURCE | LINK |
