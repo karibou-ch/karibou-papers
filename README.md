@@ -9,6 +9,8 @@ participe à la cohésion du réseau.
 | RESOURCE | LINK |
 |------------|---------|
 | **Website** | [karibou.ch](https://karibou.ch/) |
+| **CG**| [Conditions générales de vente](CG-fr.md)|
+
 
 ## Comment nous aider?
 
