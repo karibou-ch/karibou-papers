@@ -38,14 +38,14 @@ suivantes :
 - L’exclusion des OGM,
 - L’attachement à la terre nourricière : pas de cultures hors-sol ni d’intrants pétro-chimiques),
 - La recherche de circuits courts,
-- Le respect de la saisonnalité des produits,**
-- La volonté de réduire autant que possible les émissions de GES,***
+- [Le respect de la saisonnalité des produits][2],
+- [La volonté de réduire autant que possible les émissions de GES][3],
 - L’offre au consommateur d’une participation effective à la vie de la ferme et le partage avec lui des responsabilités et des risques,
 - La transparence des prix, la traçabilité des produits et la visibilité de tous les actes de la production et de la transformation,
 - des revenus qui garantissent la pérennité des exploitations agricoles et une vie digne aux travailleurs, ainsi que le maintien des plus-values dans les fermes et dans l’économie locale
 
-[1] La grande distribution impose souvent des trajets très longs et incohérents, avec des transformations et des combinaisons alimentaires souvent d’une grande opacité
-[2] La saisonnalité des produits peut être allongée selon les méthodes utilisées, mais elle ne peut pas être modifiée par le recours à des techniques lourdes (serres chauffées, etc..)
-[3] Le « zéro émission » est utopique, l’important est de n’émettre que la quantité de GES que la Terre est capable d’absorber.
+[1]: La grande distribution impose souvent des trajets très longs et incohérents, avec des transformations et des combinaisons alimentaires souvent d’une grande opacité
+[2]: La saisonnalité des produits peut être allongée selon les méthodes utilisées, mais elle ne peut pas être modifiée par le recours à des techniques lourdes (serres chauffées, etc..)
+[3]: Le « zéro émission » est utopique, l’important est de n’émettre que la quantité de GES que la Terre est capable d’absorber.
 
 
