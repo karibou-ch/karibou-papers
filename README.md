@@ -17,7 +17,7 @@ the goal of this project is to share and make easy the correction and translatio
 4. When you finish your work, just click bellow on the green button `Commit changes`
 
 ## What we need
-1. Each document available on this repository should be translated
+1. Each document available on this repository should be translated in English
 2. The charte must be validated by contributors to be effective
 
 ## Authors
