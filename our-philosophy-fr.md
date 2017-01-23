@@ -1,3 +1,14 @@
+##Header
+A la base du projet Karibou.ch se trouve notre motivation à créer une structure au service des acteurs d’une économie durable et de proximité. Aujourd'hui, ce sont eux qui peuvent le mieux répondre à vos exigences de transparence, de qualité, de préservation de la terre, de plaisir gustatif et de fraîcheur. C’est dans cette esprit que nous avons créé karibou.ch, une place de marché qui vous connecte aux acteurs locaux d’une alimentation de qualité !
+
+``` javascript
+  Title: our-philosophy (notre philosophie)
+  Authors: Olivier, Delphine
+  Traduction: wainting
+  Status: Active
+  Created: 2015-03-01
+```
+
 ## Valoriser les artisans de l’alimentation
 Il existe à Genève beaucoup de petits commerçants et d’artisans engagés, au savoir­-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
 Sur Karibou, nous vous proposons autant des professionnels réputés et déjà bien implantés à Genève, que des jeunes (ou moins jeunes) qui se lancent, passionnés par la fabrication artisanale de produits alimentaires et de bien-­être.
