@@ -1,5 +1,5 @@
 ##Header
-Karibou, c'est des légumes sans chimie de synthèse produits localement, du bon pain au feu de bois, des spécialités d’un boucher artisanal, du bon vin, du champagne bio, des fromages, du beurre en motte, des préparations végétariennes, orientales et beaucoup d'autres produits à découvrir.
+Karibou.ch, c'est des légumes sans chimie de synthèse produits localement, du bon pain au feu de bois, des spécialités d’un boucher artisanal, du bon vin, du champagne bio, des fromages, du beurre en motte, des préparations végétariennes, orientales et beaucoup d'autres produits à découvrir.
 
 
 ``` javascript
