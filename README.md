@@ -18,12 +18,12 @@ participe à la cohésion du réseau.
 ## Comment ça marche? 
 La manière la plus simple pour modifier un document:
 
-1. Vous devez avoir un compte [github account](https://github.com/join)
+1. Vous devez avoir un compte [github ](https://github.com/join)
 3. Cliquez `un-fichier-à-éditer.md` et sur le bouton `edit` en haut à droite
 4. Quand vous avez terminé votre travail, il faut cliquer en bas sur le bouton vert `Propose file change`
 
 ## Qu'est-ce qu'un `Pull Request`
-La manière démocratique de fonctionner avec github est très puissante. Chaque modification est soumise au vote pour être accepter par une large communauté de participant. On peut demander un quorum minimal (ici deux personnes) pour valider une proposition. Une fois votre modification terminée, vous avez cliqué sur `Propose file change` et le logiciel vous propose de créer un `Create pull request` qu'il faut accepter. On peut ajouter une description qui explique le but de la modification. On trouve toute les demandes de modification [ici](https://github.com/karibou-ch/karibou-papers/pulls)
+La manière démocratique de fonctionner avec github est très puissante. Chaque modification est soumise au vote/débat pour être acceptée par les participants. On peut demander un quorum minimal (ici une personne pour l'instant) pour valider une proposition. Une fois votre modification terminée, vous avez cliqué sur `Propose file change` et le logiciel vous proposera de créer un `Create pull request` qu'il faut accepter. On peut ajouter une description qui explique le but de la modification. On trouve toute les demandes de modification [ici](https://github.com/karibou-ch/karibou-papers/pulls) La première est un exemple.
 
 ![image](https://cloud.githubusercontent.com/assets/1422935/22202311/d348e716-e167-11e6-9aa9-b65754e59e73.png)
 
