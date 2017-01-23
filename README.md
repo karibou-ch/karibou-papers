@@ -11,11 +11,13 @@ participe à la cohésion du réseau.
 | **Website** | [karibou.ch](https://karibou.ch/) |
 
 ## Comment nous aider?
+
 1. Chaque document de ce projet doit être disponible en anglais,
 2. La charte doit être un document élaboré de manière participative afin de lui donner plus de autorité. Seul les acteurs directe de l'alimentation (producteurs, transformateurs, et commerçant) sont abilités à voter sur une modification 
 
 ## Comment ça marche? 
 La manière la plus simple pour modifier un document:
+
 1. Vous devez avoir un compte [github account](https://github.com/join)
 3. Cliquez `un-fichier-à-éditer.md` et sur le bouton `edit` en haut à droite
 4. Quand vous avez terminé votre travail, il faut cliquer en bas sur le bouton vert `Propose file change`
