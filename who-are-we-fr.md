@@ -1,3 +1,5 @@
+![titre image](https://ucarecdn.com/59917c15-79bb-4fa5-8b86-61d147075c60/)
+
 ## Elle
 On la connaît d’abord comme cofondatrice du club Weetamix. Passionnée de musique électro, Dephine Cluzel a dédié une partie de ses jeunes années à mixer et à organiser des soirées à la mythique Halle W. Elle en gardera un indécrottable sens de la logistique. Patiente et tenace, elle met également au service de Karibou une formation en marketing, grâce à laquelle elle gère les aspects financiers, juridiques et de promotion du projet.
 
