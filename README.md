@@ -6,10 +6,15 @@ participe à la cohésion du réseau.
 [<img src="http://karibou.ch/img/k-brand.png" alt="karibouCore Logo" height="100%" />](http://karibou.ch/)
 
 
-| RESOURCE | LINK |
-|------------|---------|
-| **Website** | [karibou.ch](https://karibou.ch/) |
-| **CG**| [Conditions générales de vente](CG-fr.md)|
+| RESOURCE | Fr,En | STATUS |
+|------------|---------|---------|
+| **CG**| [Fr](CG-fr.md),[En](CG-en.md)| en cours |
+| **La charte**| [Fr](the-charte-fr.md),[En](the-charte-en.md)|en cours |
+| **Comment ça marche**| [Fr](how-does-it-work-fr.md),[En](how-does-it-work-en.md)|en cours |
+| **La philosophie**| [Fr](our-philosophy-fr.md),[En](our-philosophy-en.md)|en cours |
+| **Qui sommes nous?**| [Fr](who-are-we-fr.md),[En](who-are-we-fr.md)|en cours |
+
+
 
 
 ## Comment nous aider?
