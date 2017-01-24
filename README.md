@@ -1,4 +1,4 @@
-# karibou-papers
+# karibou-papers :fire:
 Karibou.ch est un projet participatif. Son but est de développer une nouvelle manière de distribuer l'alimentation. 
 Cette forme passe par une participation active des acteurs de l'alimentation. Le logiciel karibou.ch ainsi que la charte 
 participe à la cohésion du réseau.
