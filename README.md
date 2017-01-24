@@ -21,7 +21,7 @@ participe à la cohésion du réseau.
 ## Comment nous aider?
 
 1. Chaque document doit être disponible en français et anglais,
-2. «La charte» doit être élaborée de manière participative afin de lui donner un maximum de sens. Seul les acteurs directe de l'alimentation (producteurs, transformateurs, et commerçants) sont abilités à voter sur une modification 
+2. «La charte» doit être élaborée de manière participative afin de lui donner un maximum de sens. Seul les acteurs directs de l'alimentation (producteurs, transformateurs, et commerçants) sont abilités à voter sur une modification 
 
 ## Comment participer? 
 La manière la plus simple pour modifier un document:
