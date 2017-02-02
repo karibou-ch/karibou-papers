@@ -2,7 +2,7 @@
 Karibou.ch a pour objectif de mettre en relation des producteurs, artisans et revendeurs avec une population urbaine désireuse de s'approvisionner de manière diversifiée auprès des commerces locaux. 
 
 ``` javascript
-  Title: the charte
+  Title: La charte
   Authors: Olivier, Delphine
   Traduction: wainting
   Status: Active
