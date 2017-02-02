@@ -10,10 +10,10 @@ A la base du projet Karibou.ch se trouve notre motivation à créer une solution
 ```
 
 ## Valoriser une agriculture paysanne et les artisans de l’alimentation
-L’agriculture paysanne est un mode de production qui dépasse tous les critères de qualité et d'écologique. Aujourd'hui les supermarchés sont incapables de distribuer des produits de cette qualité à un tarif équitable. Ceci est valable pour beaucoup de petits commerçants et d’artisans engagés, au savoir-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
-Notre solution propose une autre manière d’organiser la distribution alimentaire qui place l’entreprise à taille humaine au centre de l'action. Nous avons développé une solution qui inverse le modèle. A la place de travailler avec une exploitation agricole de >100 Hectares, nous organisons une distribution qui nous permet de travailler avec 10 petites fermes de quelques Hectares tout en garantissant > 80% de marge sur la vente. En conséquence, le produit peut être accessible à toute la population.
+L’agriculture paysanne est un mode de production qui dépasse tous les critères de qualité et écologique. Aujourd'hui les supermarchés sont incapables de distribuer des produits de cette qualité à un tarif équitable. Ceci est valable pour beaucoup de petits commerçants et d’artisans engagés, au savoir-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
+Notre solution propose une autre manière d’organiser la distribution alimentaire qui place l’entreprise à taille humaine au centre de l'action. Nous avons développé une solution qui inverse le modèle. A la place de travailler avec une exploitation agricole de >100 Hectares, nous organisons une distribution qui nous permet de travailler avec 10 petites fermes de quelques Hectares tout en leur garantissant > 80% de marge sur la vente. En conséquence, le produit peut être accessible à toute la population.
 Sur Karibou.ch, nous vous proposons autant des professionnels réputés et déjà bien implantés à Genève, que des jeunes (ou moins jeunes) qui se lancent, passionnés par la fabrication artisanale de produits alimentaires et de bien-­être.
-* Des produits maraîchers sans aucun pesticides, dans une terre vivante, élaboré avec l'intention de produire de la vie,
+* Des produits maraîchers sans aucun pesticides, élaborés avec l'intention de produire de la vie avec toute sa complexité,
 * Du miel de Genève sans pesticides, extrait de façon artisanale, ni chauffé ni rallongé de sucre,
 * Du pain à fermentation longue, avec une cuisson au feu de bois,
 * Une farine issue des champs cultivés sans traitements à côté de chez vous, moulue sur meule de pierre afin d'en préserver toutes les qualités du produit,
@@ -26,7 +26,7 @@ Jusqu’à présent la technologie utilisée dans la chaîne alimentaire a été
 
 ## Une plateforme peer2peer opensource
 Notre technologie réinvente la relation entre vous et les acteurs de l’alimentation. Karibou.ch vous permet d’acheter directement auprès de vos producteurs, commerçants et artisans préférés. Ce sont eux qui fixent les prix de leurs produits, ainsi vous rétribuez équitablement leur travail. De plus, les prix à la vente ne sont pas majorés, vous payez le même montant que dans leurs boutiques ou sur leurs stands du marché.
-Pour réussir ce travail nous avons besoin de posséder l'outil de production. Notre logiciel à été développé par notre équipe et aujourd'hui il est possible de collaborer pour l'améliorer, pour traduire des documents, ou pour améliorer notre charte
+Pour réussir ce travail nous avons besoin de posséder l'outil de production. Notre logiciel à été développé par notre équipe et aujourd'hui il est possible de collaborer pour ajouter des fonctionalités, pour traduire des documents, ou pour améliorer notre charte, 
 * https://github.com/karibou-ch 
 
 
