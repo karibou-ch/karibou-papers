@@ -10,7 +10,7 @@ participe à la cohésion du réseau.
 |------------|---------|---------|
 | **README**| [Fr](README.md),[En](README-en.md)| en cours |
 | **CG**| [Fr](CG-fr.md),[En](CG-en.md)| en cours |
-| **La charte**| [Fr](the-charte-fr.md),[En](the-charte-en.md)|en cours |
+| **La charte**| [Fr](the-chart-fr.md),[En](the-chart-en.md)|en cours |
 | **Les buts de la PAVE**| [Fr](PAVE-buts-fr.md),[En](PAVE-buts-fr.md)|en cours |
 | **Comment ça marche**| [Fr](how-does-it-work-fr.md),[En](how-does-it-work-en.md)|en cours |
 | **La philosophie**| [Fr](our-philosophy-fr.md),[En](our-philosophy-en.md)|en cours |
