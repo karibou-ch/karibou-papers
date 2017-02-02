@@ -12,6 +12,7 @@ Karibou.ch a comme objectif de distribuer les produits issue d'une **agriculture
 L’alimentation nous concerne toutes et tous. Le système de distribution actuel participe aux problèmes environnementaux que l'on connait. Les habitudes alimentaires elles, participent a de nombreux problèmes de santé. Le but de notre charte est d'amener par étape tous les métiers de l'alimentations vers un modèle écologique et économique viable pour tous:
 
 * Soutenir une agriculture locale, diversifiée, nourricière et écologique ;
+* Trouver une solution pour la diversité des produits agricoles ;
 * Fédérer les métiers de l'alimentation artisanale: Boulangerie, Boucherie, Fromagerie, etc. ;
 * Valoriser le travail d'importation des épiceries;
 * Rendre les produits accessibles au plus grand nombre;
