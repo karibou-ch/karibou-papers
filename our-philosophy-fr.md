@@ -1,5 +1,5 @@
 ##Header
-A la base du projet Karibou.ch se trouve notre motivation à créer une structure au service des acteurs d’une économie durable et de proximité. Aujourd'hui, ce sont eux qui peuvent le mieux répondre à vos exigences de transparence, de qualité, de préservation de la terre, de plaisir gustatif et de fraîcheur. C’est dans cette esprit que nous avons créé karibou.ch, une place de marché qui vous connecte aux acteurs locaux d’une alimentation de qualité !
+A la base du projet Karibou.ch se trouve notre motivation à créer une solution pour distribuer les produits issue d'une **agriculture paysanne, artisanale, 100% naturel**. Mais aussi, à l'image du marché, nous fédérons les métiers de l'alimentation qui participent à une économie durable et de proximité. Aujourd'hui, nous avons besoin d'une distribution alimentaire transparente, de qualité, équitable et qui préserve la terre. Karibou.ch est une place de marché participative et décentralisée qui innove la distribution de produits alimentaires à Genève.
 
 ``` javascript
   Title: our-philosophy (notre philosophie)
@@ -9,9 +9,10 @@ A la base du projet Karibou.ch se trouve notre motivation à créer une structur
   Created: 2015-03-01
 ```
 
-## Valoriser les artisans de l’alimentation
-Il existe à Genève beaucoup de petits commerçants et d’artisans engagés, au savoir­-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
-Sur Karibou, nous vous proposons autant des professionnels réputés et déjà bien implantés à Genève, que des jeunes (ou moins jeunes) qui se lancent, passionnés par la fabrication artisanale de produits alimentaires et de bien-­être.
+## Valoriser une agriculture paysanne et les artisans de l’alimentation
+L’agriculture paysanne est un mode de production qui dépasse tous les critères de qualité et d'écologique. Aujourd'hui les supermarchés sont incapables de distribuer des produits de cette qualité à un tarif équitable. Ceci est valable pour beaucoup de petits commerçants et d’artisans engagés, au savoir-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
+Notre solution propose une autre manière d’organiser la distribution alimentaire qui place l’entreprise à taille humaine au centre de l'action. Nous avons développé une solution qui inverse le modèle. A la place de travailler avec une exploitation agricole de >100 Hectares, nous organisons une distribution qui nous permet de travailler avec 10 petites fermes de quelques Hectares tout en garantissant > 80% de marge sur la vente. En conséquence, le produit peut être accessible à toute la population.
+Sur Karibou.ch, nous vous proposons autant des professionnels réputés et déjà bien implantés à Genève, que des jeunes (ou moins jeunes) qui se lancent, passionnés par la fabrication artisanale de produits alimentaires et de bien-­être.
 * Quel supermarché peut vous proposer une salade qui a été cueillie la veille de sa livraison chez vous ?
 * Comment découvrir un artisan de votre ville qui prépare chaque semaine pour vous le meilleur de ses recettes, de manière 100% naturelle et artisanale ?
 * Quelle grand marque peut offrir une farine issue des champs cultivés sans traitements à côté de chez vous, moulue sur meule de pierre afin d'en préserver toutes les qualités du produit ?
