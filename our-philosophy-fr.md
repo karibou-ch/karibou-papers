@@ -1,5 +1,10 @@
 ##Header
-A la base du projet Karibou.ch se trouve notre motivation à créer une solution pour distribuer les produits issue d'une **agriculture paysanne, artisanale, 100% naturel**. Mais aussi, à l'image du marché, nous fédérons les métiers de l'alimentation qui participent à une économie durable et de proximité. Aujourd'hui, nous avons besoin d'une distribution alimentaire transparente, de qualité, équitable et qui préserve la terre. Karibou.ch est une place de marché participative et décentralisée qui innove la distribution de produits alimentaires à Genève.
+A la base du projet Karibou.ch se trouve notre volonté à créer une solution pour fédérer et distribuer les produits :
+
+- issus d'une **agriculture paysanne, artisanale, 100% naturelle**
+- fabriqués par des artisans du terroir qui participent à une économie durable et de proximité
+- sélectionnés par des épiciers de Genève qui proposent des produits complémentaires à haute valeur ajoutée.
+Aujourd'hui, nous avons besoin d'une distribution alimentaire transparente, de qualité, équitable et qui préserve la terre. Karibou.ch est une place de marché participative et décentralisée qui innove la distribution de produits alimentaires à Genève.
 
 ``` javascript
   Title: our-philosophy (notre philosophie)
@@ -10,15 +15,14 @@ A la base du projet Karibou.ch se trouve notre motivation à créer une solution
 ```
 
 ## Valoriser une agriculture paysanne et les artisans de l’alimentation
-L’agriculture paysanne est un mode de production qui dépasse tous les critères de qualité et écologique. Aujourd'hui les supermarchés sont incapables de distribuer des produits de cette qualité à un tarif équitable  (ça serait trop cher pour le consommateur et pas rentable pour le producteur). Ceci est valable pour les produits de beaucoup de petits commerçants et d’artisans engagés, au savoir-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
-Notre solution propose une autre manière d’organiser la distribution alimentaire qui place l’entreprise à taille humaine au centre de l'action. Nous avons développé une solution qui inverse le modèle. A la place de travailler avec une exploitation agricole de >100 Hectares, nous organisons une distribution qui nous permet de travailler avec 10 petites fermes de quelques Hectares tout en leur garantissant > 80% de marge sur la vente. En conséquence, le produit peut être accessible à toute la population.
+L’agriculture paysanne est un mode de production écologique qui dépasse tous les critères de qualité. Ceci est valable pour les produits de petits commerçants et d’artisans engagés, au savoir-faire unique, mais dont la valeur n’est pas assez connue du public et qui demeurent difficiles d’accès.
+Notre solution propose une autre manière d’organiser la distribution alimentaire qui place l’entreprise à taille humaine au centre de l'action. Nous avons développé une solution qui inverse le modèle. A la place de travailler avec de grandes exploitations agricoles (>100 Hectares), nous organisons une distribution qui nous permet de travailler avec des petites fermes de quelques Hectares et des artisans indépendants, tout en leur garantissant plus de 80% de marge sur la vente. 
 Sur Karibou.ch, nous vous proposons autant des professionnels réputés et déjà bien implantés à Genève, que des jeunes (ou moins jeunes) qui se lancent, passionnés par la fabrication artisanale de produits alimentaires et de bien-­être.
 * Des produits maraîchers sans aucun pesticides, élaborés avec l'intention de produire de la vie avec toute sa complexité,
 * Du miel de Genève sans pesticides, extrait de façon artisanale, ni chauffé ni rallongé de sucre,
 * Du pain à fermentation longue, avec une cuisson au feu de bois,
-* Une farine issue des champs cultivés sans traitements à côté de chez vous, moulue sur meule de pierre afin d'en préserver toutes les qualités du produit,
-* Des produits et metiers de bouche, issue de petites fermes à taille humaine, des animaux traités avec le respect qu'on attend d'un élevage 
-* Et aussi plusieurs épiceries qui distribuent des produits d’exception, Bio et Demeter d’Europe et du monde.
+* Une farine issue des champs cultivés sans traitements à côté de chez vous, moulue sur meule de pierre afin d'en préserver toutes les qualités nutritives,
+* Et aussi plusieurs épiceries qui distribuent des produits d’exception, Bio et Demeter, d’Europe et du monde.
 
 ## La technologie au service du commerce local 
 ![titre image](https://ucarecdn.com/932a3e2d-9237-4ef5-b720-18e8d3f5a844/p01.jpg)
