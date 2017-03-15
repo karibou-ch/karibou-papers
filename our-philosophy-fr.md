@@ -3,7 +3,7 @@ A la base du projet Karibou.ch se trouve notre volonté à créer une solution p
 
 - issus d'une **agriculture paysanne, artisanale, 100% naturelle**
 - fabriqués par des artisans du terroir qui participent à une économie durable et de proximité
-- sélectionnés par des épiciers de Genève qui proposent des produits complémentaires à haute valeur ajoutée.
+- sélectionnés par des épiciers ou primeurs de Genève qui proposent des produits complémentaires à haute valeur ajoutée.
 Aujourd'hui, nous avons besoin d'une distribution alimentaire transparente, de qualité, équitable et qui préserve la terre. Karibou.ch est une place de marché participative et décentralisée qui innove la distribution de produits alimentaires à Genève.
 
 ``` javascript
