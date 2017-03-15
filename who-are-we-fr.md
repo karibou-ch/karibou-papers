@@ -19,3 +19,10 @@ On la connaît d’abord comme cofondatrice du club Weetamix. Passionnée de mus
 ## Lui
 ![titre image](https://ucarecdn.com/e79f59da-1081-4c89-a00f-b2499aaf0afa/)
 C’est le geek tout craché. Autodidacte dans l’âme, passionné de physique, électronique et informatique, Olivier Evalet est un partisan convaincu de l’open source et de son potentiel de changement sociétal. Ancien collaborateur scientifique à l’Institut suisse de bioinformatique, il développe le site karibou.ch et signe le logiciel inédit « Karibou Marketplace », une solution [peer2peer](https://fr.wikipedia.org/wiki/Pair_%C3%A0_pair) au service d'une économie alimentaire de proximité.
+
+## Nos précieux partenaires
+* [Carole Parodi](https://caroleparodi.com/), photographe indépendante, a réalisé de nombreux portraits de nos artisans et photographié leurs produits.
+
+* Damien, cycloservices, livre à vélo (non électrique!) dans toute la ville.
+
+* Yannik Bétemps, [Vélo Vert](http://www.velovert.ch/), livre à vélo dans le canton.
