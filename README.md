@@ -9,6 +9,7 @@ participe à la cohésion du réseau.
 | DOCUMENT | LIEN | STATUS |
 |------------|---------|---------|
 | **README**| [Fr](README.md),[En](README-en.md)| en cours |
+| **translate**| [Fr/En](translate.md)| en cours |
 | **CG**| [Fr](CG-fr.md),[En](CG-en.md)| en cours |
 | **La charte**| [Fr](the-chart-fr.md),[En](the-chart-en.md)|en cours |
 | **Les buts de la PAVE**| [Fr](PAVE-buts-fr.md),En|en cours |
