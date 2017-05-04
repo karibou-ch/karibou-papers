@@ -38,7 +38,7 @@ Tous les prix incluent la TVA selon les taux en vigueur.
 
 Le prix des produits au poids est indiqué clairement. 
 
-Concernant les produits à poids variable, le prix final facturé sera ajusté en fonction du poids exact.
+Concernant les produits à poids variable, le prix final facturé sera ajusté en fonction du poids exact. Une marge de **15% supplémentaire** à la commande est **réservée** quelque soit votre mode de paiement (VISA, MC, AE, BTC, ...) pour permettre ces ajustements. Après le jour de la livraison, la facture finale est établie et le paiement définitif est effectué. La différence avec le montant réservé est remboursée.
 
 Les coûts annexes par exemple frais de port, supplément pour certains moyens de paiement ne sont pas inclus dans le prix. Ils sont indiqués séparément et sont ou peuvent être facturés en sus.
 
