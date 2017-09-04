@@ -74,7 +74,7 @@ Après la confirmation de la commande par karibou.ch, les articles commandés so
 
 ## Horaires de livraison
 
-Le client sélectionne sa date de livraison, la livraison s’effectue entre 16h et 18h.
+Le client sélectionne sa date de livraison, la livraison s’effectue entre 16h et 19h.
 
 Les heures de livraison peuvent varier à l’intérieur du créneau horaire et occasionnellement se situer en dehors de ce créneau.
 
