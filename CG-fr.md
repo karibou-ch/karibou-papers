@@ -10,7 +10,7 @@ Le client mandate karibou.ch pour effectuer l'achat et la collecte des marchandi
 ## Responsabilité
 
 Karibou.ch s’engage à collecter auprès des boutiques tous les produits d’un client le matin du jour de livraison. Le respect de la chaîne du froid et le parfait conditionnement du produit sont garantis.
-La boutique s’engage à proposer des produits à prix identiques à ceux pratiqués dans son propre commerce. Dans le cas où elle participe aux frais de livraison, elle peut augmenter le prix de ses produits mais au maximum de 4%. La boutique a la responsabilité de fournir des produits de première fraîcheur et qualité et conformes à la description présentée sur le site [karibou.ch](http://karibou.ch).  Elle est également responsable des informations publiées sur le site [karibou.ch](http://karibou.ch) (par ex. descriptions, ingrédients, poids). Concernant les produits à la coupe, elle s'engage à les conditionner le jour de la livraison.
+**La boutique s’engage à proposer des produits à prix identiques à ceux pratiqués dans son propre commerce**. C'est uniquement dans le cas où elle participe aux frais de livraison qu'elle est autorisée à majorer d'autant le prix de ses produits. La boutique a la responsabilité de fournir des produits de première fraîcheur et qualité et conformes à la description présentée sur le site [karibou.ch](http://karibou.ch).  Elle est également responsable des informations publiées sur le site [karibou.ch](http://karibou.ch) (par ex. descriptions, ingrédients, poids). Concernant les produits à la coupe, elle s'engage à les conditionner le jour de la livraison.
 
 ## Garantie client
 
