@@ -34,4 +34,5 @@ Retrouvez plus d'infos dans notre [FAQ](http://karibou.ch/content/faq-clients).
 
 * test 1
 * test 2
+* test 3
 
