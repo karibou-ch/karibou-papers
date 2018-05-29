@@ -1,5 +1,5 @@
 
-##Header
+## Header
 Karibou.ch, c'est une technologie locale pour promouvoir les artisans, producteurs et épiciers du canton.
 
 ``` javascript
@@ -31,3 +31,9 @@ Vous choisissez votre lieu de livraison et nos cyclistes vous livrent à vélo. 
 * Nous livrons tous les  mardi et le vendredi entre 16h et 19h.
 
 Retrouvez plus d'infos dans notre [FAQ](http://karibou.ch/content/faq-clients).
+
+* test 1
+* test 2
+* test 3
+* test 4
+
