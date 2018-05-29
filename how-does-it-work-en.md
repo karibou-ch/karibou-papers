@@ -31,3 +31,5 @@ Vous choisissez votre lieu de livraison et nos cyclistes vous livrent à vélo. 
 * Nous livrons tous les  mardi et le vendredi entre 16h et 19h.
 
 Retrouvez plus d'infos dans notre [FAQ](http://karibou.ch/content/faq-clients).
+
+* test 1
