@@ -87,4 +87,6 @@ In case of disagreement or dispute, the customer agrees to collaborate in a medi
 
 Phone: + 41 22 506 80 42 / email: <a class="link" href="mailto:hello@karibou.ch">hello@karibou.ch</a>
 
+The legal forum for Karibou.ch SA is located in Geneva, 5, ch. du 23-Août, 1205 Geneva and, subject to appeal to the federal court, only the Geneva courts are competent to settle disputes arising from the interpretation and/or non-performance of these terms.
+
 
