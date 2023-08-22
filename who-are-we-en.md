@@ -4,12 +4,12 @@ The founders of Karibou.ch SA, Delphine Cluzel and Olivier Evalet, share a visio
 ### Main Image
 ![Image Title](https://ucarecdn.com/4c47efc7-be78-4f61-95d4-232a83ee5cd4/)
 
-## Her
-Delphine Cluzel is first known as the co-founder of the Weetamix club. Passionate about electro music, she dedicated a part of her younger years to mixing and organizing parties at the mythical Halle W. She will keep from it an unshakeable sense of logistics. Patient and tenacious, she also brings to Karibou a background in marketing, thanks to which she manages the financial, legal, and promotional aspects of the company.
+## Delphine Cluzel
+Delphine is first known as the co-founder of the Weetamix club. Passionate about electro music, she dedicated a part of her younger years to mixing and organizing parties at the mythical Halle W. She will keep from it an unshakeable sense of logistics. Patient and tenacious, she also brings to Karibou a background in marketing, thanks to which she manages the financial, legal, and promotional aspects of the company.
 
-## Him
+## Olivier Evalet
 ![Image Title](https://ucarecdn.com/e79f59da-1081-4c89-a00f-b2499aaf0afa/)
-He is the very definition of a geek. A self-taught soul, passionate about physics, electronics, and computer science, Olivier Evalet is a staunch advocate of open source and its potential for societal change. A former scientific collaborator at the Swiss Institute of Bioinformatics, he developed the karibou.ch site and authored the unique software "Karibou Marketplace," a [peer2peer](https://fr.wikipedia.org/wiki/Pair_%C3%A0_pair) solution serving a local food economy.
+He is the very definition of a geek. A self-taught soul, passionate about physics, electronics, and computer science, Olivier is a staunch advocate of open source and its potential for societal change. A former scientific collaborator at the Swiss Institute of Bioinformatics, he developed the karibou.ch site and authored the unique software "Karibou Marketplace," a [peer2peer](https://fr.wikipedia.org/wiki/Pair_%C3%A0_pair) solution serving a local food economy.
 
 ## Our valued partners
 * [Vélo Vert](https://www.velovert.ch/), delivers by bicycle in the canton.
