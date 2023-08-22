@@ -1,4 +1,4 @@
-### How does it work
+# How does it work
 Karibou.ch is a local technology to promote craftsmen, producers, and grocers from the canton.
 
 Karibou.ch functions like a physical market; it is composed of **independent shops**, which together form the online market. We provide an IT infrastructure and a logistics infrastructure to facilitate the relationship between customers and sellers.
