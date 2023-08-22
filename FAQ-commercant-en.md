@@ -1,4 +1,4 @@
-# How It Works for Merchants
+# FAQ - VENDORS
 
 ## What is the karibou.ch marketplace?
 
