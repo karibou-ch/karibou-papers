@@ -1,13 +1,5 @@
-##Header
+# COMMENT ÇA MARCHE
 Karibou.ch, c'est une technologie locale pour promouvoir les artisans, producteurs et épiciers du canton.
-
-``` javascript
-  Title: How does it work? (Comment ça marche?)
-  Authors: Olivier, Delphine
-  Traduction: wainting
-  Status: Active
-  Created: 2015-03-01
-```
 
 Karibou.ch fonctionne comme un marché physique, elle est composée de **boutiques toutes indépendantes**, qui ensemble forment le marché en ligne. Nous mettons à disposition une infrastructure informatique et une infrastructure de logistique afin de faciliter la relation entre les clients et les vendeurs. 
 
