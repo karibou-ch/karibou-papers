@@ -16,7 +16,7 @@ L’alimentation nous concerne toutes et tous. Le système de distribution actue
 * respecter les normes sociales par rapport à leur employés, y compris le personnel temporaire.
 
 ## Karibou.ch s'engage à :
-* proposer une plateforme web multicommerçants sécurisée permettant de faire ses courses depuis un ordinateur, tablette, smartphone;
+* proposer une plateforme web sécurisée, multimarchés et multicommerçants, permettant de faire ses courses depuis un ordinateur, tablette, smartphone;
 * rencontrer et dialoguer avec les producteurs, artisans et commerçants désireux d'ouvrir un magasin sur le site;
 * laisser à chaque boutique le soin de choisir le prix de vente des produits (pour autant que les prix pratiqués soient identiques à ceux pratiqués dans leur propre commerce);
 * vérifier autant que possible la fiabilité des informations données pour chaque produit proposé;
