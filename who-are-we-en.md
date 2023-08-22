@@ -1,4 +1,4 @@
-# Who are we?
+# WHO WE ARE
 The founders of Karibou.ch SA, Delphine Cluzel and Olivier Evalet, share a vision of the world that is based on more values and more civic responsibility. Knowing what is in one's plate and promoting local trade are part of this ethic. The birth of their two daughters will crystallize this desire. To reconcile healthy eating with the fast pace of city and family life, they combine their two loves – quality products and the web – to bring together the best craftsmen in Geneva on karibou.ch.
 
 ### Main Image
