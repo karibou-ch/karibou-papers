@@ -1,6 +1,6 @@
 ### Comment ça marche?
 Vous remplissez votre panier auprès des différents marchés et vous recevez le tout en une seule livraison!<br>
-<b>Délai de commande</b>: midi (12h) pour le lendemain<br>
+<b>Délai de commande</b>: midi (12h) pour le lendemain.<br>
 Une question, un souci ?<br>
 📧  <a class="link" href="mailto:hello@karibou.ch">hello@karibou.ch</a> ☎️  <a class="link" href="tel:022 506 80 42">022 506 80 42</a>
 
@@ -76,10 +76,6 @@ Oui. Sur un produit vous pouvez enregistrer un message audio pour le commerçant
 Oui, votre commande peut être annulée très facilement tant que sa préparation n’a pas débuté. Pour annuler une commande, il vous suffit d’aller dans «Compte» et d'annuler la commande en cours.
 
 ![message](https://ucarecdn.com/afdb5aae-274d-41f2-ac1f-85d4403236ad/-/resize/x200/")
-
-### Combien de temps à l’avance dois-je effectuer ma commande?
-
-La veille de la livraison. Cela donne le temps aux artisans et commerçants de préparer vos produits. Vous pouvez placer votre commande au plus tard à 12h00 pour le lendemain. Notez également que notre système de paiement ne nous permet pas la réservation d’une commande plus de 7 jours à l’avance.
 
 ### Est-ce que nous recyclons?
 
