@@ -16,7 +16,7 @@ Food concerns us all. The current distribution system contributes to the environ
 * respect social norms regarding their employees, including temporary staff.
 
 ## Karibou.ch commits to:
-* offer a secure multi-merchant web platform for shopping from a computer, tablet, smartphone;
+* offer a secure multi-market and multi-merchant web platform for shopping from a computer, tablet, smartphone;
 * meet and dialogue with producers, artisans, and merchants wishing to open a store on the site;
 * leave each store the choice of the selling price of the products (as long as the prices are identical to those practiced in their own business);
 * verify as much as possible the reliability of the information given for each product offered;
