@@ -44,7 +44,7 @@ Les livraisons sont effectuées à vélo par nos partenaires [CycloMoov](https:/
 
 ### Quand livrez-vous ?
 
- Livraison du lundi au samedi, en fonction de la disponibilités des marchés:
+ Livraison en fonction de la disponibilités des marchés, du lundi au vendredi de 16h à 19h30 et le samedi de 11h30 à 15h.
 * espace-terroir: mardi, mercredi, vendredi
 * Ferme de Budé: mardi, mercredi, vendredi
 * Halle de Rive: lundi au samedi
