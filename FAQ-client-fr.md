@@ -39,12 +39,12 @@ Notre politique des coûts est transparente. Le prix des produits est le même q
 * CHF 2.30 dès CHF 150.- d'achats
 * CHF 4.80 
 
-#### Les Frais de livraison dans les communes avoisinantes:
+#### Les frais de livraison dans les communes avoisinantes:
 * CHF 3.30 dès CHF 200.- d'achats
 * CHF 5.30 dès CHF 150.- d'achats
 * CHF 7.80
 
-#### Les Frais de livraison dans les communes lointaines:
+#### Les frais de livraison dans les communes lointaines:
 * CHF 4.40 dès CHF 200.- d'achats
 * CHF 6.40 dès CHF 150.- d'achats
 * CHF 8.90
