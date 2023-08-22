@@ -23,7 +23,7 @@ Chacun d'entre eux vous indique sur son produit si c'est Bio, Biodynamie, local,
 
 La plateforme karibou.ch n’est pas conçue comme un site de revente, mais sur le modèle du “marché” alimentaire. Chaque commerçant gère sa boutique en y proposant ses produits, s'engage sur un ensemble de critères qui lui est propre et répond de la qualité de ses produits. 
 
-### Est-ce que le prix des produits sont majorés ?
+### Est-ce que le prix des produits est majoré ?
 
 Les prix sont les mêmes sur Karibou qu’au marché ou dans les commerces. Un commerçant est autorisé à majorer raisonnablement (en dessous de 5%) ses prix dans la cas où un travail supplémentaire nécessaire est justifié et cette majoration doit être indiqué de manière très claire pour le client. 
 
