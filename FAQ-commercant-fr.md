@@ -1,5 +1,5 @@
 
-# Comment cela fonctionne pour le commerçant
+# FAQ COMMERÇANT
 
 ## karibou.ch marketplace qu'est-ce que c'est?
 
