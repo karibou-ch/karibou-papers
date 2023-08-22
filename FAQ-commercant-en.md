@@ -1,4 +1,4 @@
-# FAQ VENDORS
+# FAQ VENDOR
 
 ## What is the karibou.ch marketplace?
 
